@@ -1,0 +1,40 @@
+body{
+    background-image: url(/practica2/img/emilia-about.jpg);
+    background-position: right 0%;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    font-family: open sans;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+p.header{
+    background-color: rgba(255, 255, 255, .5);
+    text-align: right;
+    padding: 20px 0px;
+}
+p.redes{
+    text-align: right;
+    
+}
+h1{
+    font-family: raleway;
+    font-size: 65px;
+}
+p.cita{
+    font-family: raleway;
+    color: cadetblue;
+    margin-left: 40px;
+}
+p.primaria{
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 0;
+
+}
+p.secundaria{
+        font-size: 15px;
+}
+
